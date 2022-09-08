@@ -16,7 +16,7 @@
     "ejs": "^2.7.2",
     "express": "^4.17.1",
     "html-to-json": "^0.6.0",
-    "mammoth": "^1.4.9",
+    "mammoth": "^1.5.1",
     "mongoose": "^5.7.11",
     "multer": "^1.4.2",
     "pdfkit": "^0.10.0"
